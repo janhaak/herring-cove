@@ -1,14 +1,16 @@
-name: Herring Cove
-author: Herring Cove
-baseurl: /herring-cove
-description: theme for jekyll
-github: http://www.github.com/arnp
-twitter: http://www.twitter.com/
-facebook: http://www.facebook.com
-linkedin: http://www.linkedin.com
-email: rnpatel[at]me.com
-location: 42°2'16"N   70°12'47"W
-disqus: diqus-username
+name: Jan Haak
+author: Jan Haak
+baseurl: ""
+description: > 
+ tech, software, travel
+ 
+github: https://www.github.com/janhaak
+twitter: https://www.twitter.com/janhaak
+facebook: https://www.facebook.com/jan.haak
+linkedin: https://au.linkedin.com/pub/jan-haak/5/938/582
+email: jan@janhaak.com
+location: -31.955849, 115.859088
+#disqus: diqus-username
 
 ##Make sure to edit the above fields, especially for disqus.
 
