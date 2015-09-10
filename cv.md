@@ -58,19 +58,19 @@ Rebuilt Landgate's core business application in the **Cloud** very, very quickly
 As Ajilon's National **Competency lead for Integration and Application Development** worked to cultivate community and capability across our technical staff. Organised regular catch ups for special interest groups, as well as organising a *hackathon*-style **Code Jam** that brought a diverse set of client business problems to our own development teams. Ended up as a win-win because it built community amongst our developers who can be quite siloed at client sites, and created material that demonstrated new thinking and innovation to our clients.
 
 #### CCK Financial Solutions
-##### (2009-2010)
+##### *2009 to 2010*
 Working as a **Developer** learnt the beauty of **Smalltalk** and Object Oriented (non relational) databases. Built treasury management software for several major international banks.
 
 #### Thales Group
-##### (2008-2009)
+##### *2008 to 2009*
 Wrote **C, C++ and Java** as a **Software Engineer** on a Distributed Combat system for the Australian Navy that integrated command and control for [missiles](http://www.defence.gov.au/media/download/2007/sep/20070911a/index.htm), guns, radars, tactical data networks and many other military gadgets. Ran on **Solaris**.
 
 #### Market Sentinel
-##### (2007-2008)
+##### *2007 to 2008*
 London startup using **Big Data** tech (**Hadoop**) running on **AWS** to leverage **Natural Language Processing (NLP)** algorithms to perform **sentiment analysis** on **social media**. Built in the form of a vertical search engine, sold analysis to companies trying to manage their reputation online (big pharma, retail etc.) If this means nothing to you, it was cool, cutting edge and before its time.
 
 #### Data Analysis Australia
-##### (2004-2007)
+##### *2004 to 2007*
 Working as a **Systems Programmer** wrote stats analysis packages in **R** and **Python**, Looked after some **PostgreSQL** databases and a room of servers. First taste of the open source community and **Linux**.
 
 ### Other interests
