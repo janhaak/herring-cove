@@ -76,6 +76,7 @@ Working as a **Systems Programmer** wrote stats analysis packages in **R** and *
 ### Other interests
 * Tinkering with embedded electronics like **Arduino** and **Raspberry Pi**.
 * Novelty endurance sporting challenges - have completed Avon Descent, Marathons, Ultra Marathons and a (half) Iron Man.
+* Social Touch Rugby, Netball and Aussie rules footy player.
 * Have travelled extensively on many unusual but excellent international holidays.
 * Involved in the Perth tech scene, regular competitor of **Hackathons** and a member at **Spacecubed**  
 * Drones and other autonomous technology such as driverless cars.
