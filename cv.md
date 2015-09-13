@@ -42,7 +42,7 @@ Solutions Architect with broad industry and technical experience. Adept at recon
 
 #### Haak Systems
 ##### *2011 to Current* (own company for side projects)
-Built an [**NFC** enabled app](http://www.businesswire.com/news/home/20150710005103/en/Thinfilm-World-Introduce-%E2%80%9CSmart-Wine-Bottle%E2%80%9D-Featuring#.VfAzgJ2qqkp) leveraging Internet of Things (**IoT**) tech to identify and fight counterfeit wine for Australian vineyards selling into the Chinese market. Project now extended to validating other Australian made items internationally. Built a mine tenement management system in the **Cloud** using **Microsoft Azure** PaaS to lower ongoing support costs. Worked on a [complex robot system](https://www.youtube.com/watch?v=xK6LWGfC72o) designed to automate analysis or iron ore samples, and another robot that used **Computer Vision** to QA and stack freshly minted gold coins. Built a **drone** for a [Outback UAV Challenge](http://uavchallenge.org/), and planning to re-enter. Working on an **IoT** project for divers to monitor water quality and visibility at various recreational dive sites.
+Built an [**NFC** enabled app](http://www.businesswire.com/news/home/20150710005103/en/Thinfilm-World-Introduce-%E2%80%9CSmart-Wine-Bottle%E2%80%9D-Featuring#.VfAzgJ2qqkp) leveraging Internet of Things (**IoT**) tech to identify and fight counterfeit wine for Australian vineyards selling into the Chinese market. Project now extended to validating other Australian made items internationally. Built a mine tenement management system in the **Cloud** using **Microsoft Azure** PaaS to lower ongoing support costs. Worked on a [complex robot system](https://www.youtube.com/watch?v=xK6LWGfC72o) designed to automate analysis of iron ore samples, and another robot that used **Computer Vision** to QA and stack freshly minted gold coins. Built a **drone** for a [Outback UAV Challenge](http://uavchallenge.org/), and planning to re-enter. Working on an **IoT** project for divers to monitor water quality and visibility at various recreational dive sites.
 
 #### Ajilon Australia
 ##### *2010 to Current* (full-time contractor)
@@ -76,7 +76,7 @@ Working as a **Systems Programmer** wrote stats analysis packages in **R** and *
 -------
 
 ### Other interests
-* Perth tech scene, regular competitor of **Hackathons** and a member at **Spacecubed**  
+* Perth tech scene, regular competitor of **Hackathons** and a member at **Spacecubed**.  
 * Drones and other autonomous technology such as driverless cars.
 * Tinkering with embedded electronics like **Arduino** and **Raspberry Pi**.
 * Usually try a new sporting challenge every year. Have completed Avon Descent, Marathons, Ultra Marathons and a (half) Iron Man.
@@ -84,6 +84,6 @@ Working as a **Systems Programmer** wrote stats analysis packages in **R** and *
 
 ---------
 
-> Jan Haak | [jan@janhaak.com](mailto:jan@janhaak.com) | +61 407 982 640
+> Jan Haak | [jan@janhaak.com](mailto:jan@janhaak.com) | +61 407 982 640 | [Download this in Word format.](/jan-haak-cv.docx)
 
 ------
