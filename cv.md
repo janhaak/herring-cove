@@ -15,7 +15,7 @@ permalink: /CV/
 
 ### Profile
 
-As software and technology [disrupt traditional enterprise](http://www.wsj.com/articles/SB10001424053111903480904576512250915629460) and create entirely new types of businesses, I'm excited about roles that require deep technical capability combined with a need for strong stakeholder and team influence. Growing to understand the potent nexus of soft and hard skills, I enjoy roles with opportunity to pursue both.
+Solutions Architect with broad industry and technical experience. Adept at reconciling murky business requirements into a clear technical vision. Happy to get hands dirty and lead a team to implement while bringing stakeholders on the journey. Have a track record for delivering quality work and fostering innovation in teams. Comfortable juggling multiple projects in parallel with tight deadlines. Seeking opportunity to grow both soft and technical capability.
 
 ------
 
@@ -45,7 +45,7 @@ As software and technology [disrupt traditional enterprise](http://www.wsj.com/a
 Built an [**NFC** enabled app](http://www.businesswire.com/news/home/20150710005103/en/Thinfilm-World-Introduce-%E2%80%9CSmart-Wine-Bottle%E2%80%9D-Featuring#.VfAzgJ2qqkp) leveraging Internet of Things (**IoT**) tech to identify and fight counterfeit wine for Australian vineyards selling into the Chinese market. Project now extended to validating other Australian made items internationally. Built a mine tenement management system in the **Cloud** using **Microsoft Azure** PaaS to lower ongoing support costs. Worked on a [complex robot system](https://www.youtube.com/watch?v=xK6LWGfC72o) designed to automate analysis or iron ore samples, and another robot that used **Computer Vision** to QA and stack freshly minted gold coins. Built a **drone** for a [Outback UAV Challenge](http://uavchallenge.org/), and planning to re-enter. Working on an **IoT** project for divers to monitor water quality and visibility at various recreational dive sites.
 
 #### Ajilon Australia
-#####*2010 to Current* (full-time contractor)
+##### *2010 to Current* (full-time contractor)
 Clients include Landgate, BHP Billiton Iron Ore, Woodside and WA Police.  
 As a **Solutions Architect** at WA Police designed a *"Licensing and Registry"* system. Responsible for detailed solution design and compliance with business, legal and enterprise requirements. $9M+ budget involving integration with multiple external third parties and several internal Police systems. Involves a mix of technical panache, communicating complicated problems coherently to CxO and board level whilst ensuring the 20+ team on the ground keeps moving in the right direction.
 
@@ -63,7 +63,7 @@ Working as a **Developer** learnt the beauty of **Smalltalk** and Object Oriente
 
 #### Thales Group
 ##### *2008 to 2009*
-Wrote **C, C++ and Java** as a **Software Engineer** on a Distributed Combat system for the Australian Navy that integrated command and control for [missiles](http://www.defence.gov.au/media/download/2007/sep/20070911a/index.htm), guns, radars, tactical data networks and many other military gadgets. Ran on **Solaris**.
+**Software Engineer** on a Distributed Combat system for the Australian Navy that integrated command and control for [missiles](http://www.defence.gov.au/media/download/2007/sep/20070911a/index.htm), guns, radars, tactical data networks and many other military gadgets.
 
 #### Market Sentinel
 ##### *2007 to 2008*
@@ -73,13 +73,14 @@ London startup using **Big Data** tech (**Hadoop**) running on **AWS** to levera
 ##### *2004 to 2007*
 Working as a **Systems Programmer** wrote stats analysis packages in **R** and **Python**, Looked after some **PostgreSQL** databases and a room of servers. First taste of the open source community and **Linux**.
 
+-------
+
 ### Other interests
-* Tinkering with embedded electronics like **Arduino** and **Raspberry Pi**.
-* Novelty endurance sporting challenges - have completed Avon Descent, Marathons, Ultra Marathons and a (half) Iron Man.
-* Social Touch Rugby, Netball and Aussie rules footy player.
-* Have travelled extensively on many unusual but excellent international holidays.
-* Involved in the Perth tech scene, regular competitor of **Hackathons** and a member at **Spacecubed**  
+* Perth tech scene, regular competitor of **Hackathons** and a member at **Spacecubed**  
 * Drones and other autonomous technology such as driverless cars.
+* Tinkering with embedded electronics like **Arduino** and **Raspberry Pi**.
+* Usually try a new sporting challenge every year. Have completed Avon Descent, Marathons, Ultra Marathons and a (half) Iron Man.
+* Social Touch Rugby, Netball and Aussie rules football.
 
 ---------
 
